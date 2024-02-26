@@ -59,3 +59,8 @@
  * 1. Simple
  * 2. A bit more complex
  */
+
+/**
+ * Check Validity of JSON File/ data
+ * *Excellent site to visit ---> JSON Beautifier --> https://jsonbeautifier.org/
+ */
