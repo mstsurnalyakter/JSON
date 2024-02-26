@@ -15,3 +15,6 @@ const displayUser = (user) =>{
     console.log(user);
 }
 
+fetch("https://jsonplaceholder.typicode.com/photos/1")
+.then(res => res.json())
+.then(photos => console.log(photos))
