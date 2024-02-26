@@ -64,3 +64,19 @@
  * Check Validity of JSON File/ data
  * *Excellent site to visit ---> JSON Beautifier --> https://jsonbeautifier.org/
  */
+
+
+/**
+ * How to
+ * 1.Access
+ * 2. Modify
+ * 3. Delete
+ * 4.Convert
+ * JSON Data
+ */
+
+/**
+ * Access two way
+ * 1. Use dot Notation
+ * 2. Use Bracket Notation
+ */
