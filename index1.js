@@ -29,7 +29,7 @@
  *
  *
  * JSON Syntax
- * * ****** -> JSON Syntax [key must be double quote] [with [] brace]
+ * * ****** -> JSON Syntax [key must be double quote] {[with [{},{}]} brace]
  *               [
  *                  {
  *                      "key":"value"
@@ -51,5 +51,11 @@
  * JavaScript Object VS JSON
  *
  *
- * 
+ *
+ */
+
+/**
+ * dem
+ * 1. Simple
+ * 2. A bit more complex
  */
